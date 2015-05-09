@@ -15,17 +15,17 @@ app.factory('HomeWorksFactory', function ($http) {
         },
         {
           assignment: 'Flashcards Day 1',
-          url: 'https://github.com/bensenberner/flashcards1url',
+          url: 'https://github.com/bensenberner/flashcards-day1',
           status: 'completed'
         },
           {
             assignment: 'Flashcards Day 2',
-            url: 'https://github.com/bensenberner/flashcards2url',
+            url: 'https://github.com/bensenberner/flash-cards',
             status: 'completed'
           },
           {
             assignment: 'Flashcards Day 3',
-            url: 'https://github.com/bensenberner/flashcards3url',
+            url: 'https://github.com/bensenberner/flash-cards',
             status: 'completed'
           }
         ];
