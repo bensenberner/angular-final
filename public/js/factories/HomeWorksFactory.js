@@ -27,6 +27,11 @@ app.factory('HomeWorksFactory', function ($http) {
             assignment: 'Flashcards Day 3',
             url: 'https://github.com/bensenberner/flash-cards',
             status: 'completed'
+          },
+          {
+            assignment: 'This Final',
+            url: 'https://github.com/bensenberner/angular-final',
+            status: 'completed'
           }
         ];
       });
